@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
   ### Hey! Welcome to my profile! How is it going?  👋
-My name is Karina Burin  : raise_hand :
+My name is Karina Burin :raise_hand: 
 
 i'm educated on analysis of systems development and work as a software programmer with language Microsoft visual foxPro.
 

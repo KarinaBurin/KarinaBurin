@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey! Welcome to my profile! How is it going?  👋
-My name is Karina Burin  .
 
-i'm educated on analysis of systems development and work as a software programmer with language Microsoft visual foxPro.
+### Hey! Welcome to my profile! How is it going?  👋
+My name is Karina Burin.
+
+I'm educated on analysis of systems development and work as a software programmer with language Microsoft visual foxPro.
 
 I am a lover of technology and I live in search of new challenges and learnings!
 
@@ -27,3 +28,5 @@ I am a lover of technology and I live in search of new challenges and learnings!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Karina%20Burin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-burin-29571ba0/)](https://www.linkedin.com/in/karina-burin-29571ba0/) 
 [![Instagram Badge](https://img.shields.io/badge/-@KarinaBurin-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/karinaburin/?hl=pt-br)](https://www.instagram.com/karinaburin/?hl=pt-br)
+
+

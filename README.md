@@ -24,7 +24,7 @@ I am a lover of technology and I live in search of new challenges and learnings!
 
 #### 	"Quanto mais eu sei, mais estou perto de chegar lá! " 🌍💪🏻
 - 📍 From Americana - SP, living in Santa Barbara D' Oeste - SP.
-- 💻 Studying JS, NodeJs and Reactive Native.
+- 💻 Studying C#, HTML5, CSS3, JavaScript.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Karina%20Burin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-burin-29571ba0/)](https://www.linkedin.com/in/karina-burin-29571ba0/) 

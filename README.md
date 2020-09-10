@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 -->
 
 
-### Hey! Welcome to my profile! How is it going?  👋
 My name is Karina Burin.
 
 I'm educated on analysis of systems development and work as a software programmer with language Microsoft visual foxPro.
 
-I am a lover of technology and I live in search of new challenges and learnings!
+I live in search of new challenges and learnings!
 
 #### 	"Quanto mais eu sei, mais estou perto de chegar lá! " 🌍💪🏻
 - 📍 From Americana - SP, living in Santa Barbara D' Oeste - SP.

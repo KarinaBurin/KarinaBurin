@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 My name is Karina Burin.
 
-I'm educated on analysis of systems development and work as a software programmer with language Microsoft visual foxPro.
+I'm educated on analysis of systems development and worked 1 year as a software developer with Microsoft visual language foxPro.
+I started in October/2020 a new challenge which is to program the web. Buil API with .net core, and on the front I use angular v2+, with SQL server database.
 
 I live in search of new challenges and learnings!
 

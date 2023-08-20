@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 
 My name is Karina Burin.
 
-I'm educated on analysis of systems development and worked 1 year as a software developer with Microsoft visual language foxPro.
-I started in October/2020 a new challenge which is to program the web. Buil API with .net core, and on the front I use angular v2+, with SQL server database.
+I have a degree in systems development analysis, I have been a programmer since 2019, I work today with .NET, Angular v2+, sql server, I am looking for new learning every day.
 
 I live in search of new challenges and learnings!
 
 #### 	"Quanto mais eu sei, mais estou perto de chegar lá! " 🌍💪🏻
 - 📍 From Americana - SP, living in Santa Barbara D' Oeste - SP.
-- 💻 HTML, CSS, JavaScript, Angular, C#.
+- 💻 HTML, CSS, JavaScript, AngularV2+, C#, .Net, Azure Functions
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Karina%20Burin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-burin-29571ba0/)](https://www.linkedin.com/in/karina-burin-29571ba0/) 

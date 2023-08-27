@@ -21,7 +21,7 @@ Sou formado em análise de desenvolvimento de sistemas, sou dev desde 2019, trab
 Vivo em busca de novos desafios e aprendizados!
 
 #### 	"Quanto mais eu sei, mais estou perto de chegar lá! " 🌍💪🏻
-- 📍 From Americana - SP, living in Santa Barbara D' Oeste - SP.
+- 📍  Americana - SP, Moro em Santa Barbara D' Oeste - SP.
 - 💻 HTML, CSS, JavaScript, AngularV2+, C#, .Net, Azure Functions
 
 

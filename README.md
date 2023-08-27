@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 Meu nome é Karina Burin.
 
-Sou formado em análise de desenvolvimento de sistemas, sou programador desde 2019, trabalho hoje com .NET, Angular v2+, sql server, procuro novos aprendizados a cada dia.
+Sou formado em análise de desenvolvimento de sistemas, sou dev desde 2019, trabalho hoje com .NET, Angular v2+, sql server, procuro novos aprendizados a cada dia.
 
 Vivo em busca de novos desafios e aprendizados!
 

@@ -4,7 +4,7 @@
 -->
 
 # Karina Burin
-Sou formado em análise de desenvolvimento de sistemas, sou dev desde 2019, trabalho hoje com .NET, Angular v2+, sql server, procuro novos aprendizados a cada dia.
+Sou formado em análise de desenvolvimento de sistemas, sou dev desde 2019, trabalho atualmente com .NET, Angular v2+, sql server, procuro novos aprendizados a cada dia.
 
 ### 	"Quanto mais eu sei, mais estou perto de chegar lá! " 🌍💪🏻
 - 📍  Americana - SP, Moro em Santa Barbara D' Oeste - SP.

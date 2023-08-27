@@ -23,7 +23,9 @@ Sou formado em análise de desenvolvimento de sistemas, sou dev desde 2019, trab
 - Azure Functions
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karinaburin&show_icons=true&hide_title=true&hide=stars&cache_seconds=86400&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karinaburin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=a9319b&text_color=FFF)
+
+
 
 ### Meus Principais Artigos na DIO
 <table>
@@ -49,7 +51,7 @@ Sou formado em análise de desenvolvimento de sistemas, sou dev desde 2019, trab
       <td>Procedures ou lógica diretamente no repositório? Quando devo usar um ou outro?</td>
       <td align="center">
         <a href="https://web.dio.me/articles/procedures-ou-logica-diretamente-no-repositorio-quando-devo-usar-um-ou-outro?back=%2Farticles&page=1&order=oldest">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-a9319b?style=for-the-badge">
         </a>
       </td>
     </tr>
@@ -67,7 +69,7 @@ Sou formado em análise de desenvolvimento de sistemas, sou dev desde 2019, trab
       <td>Alguns comandos básicos do Angular V2+ para gerenciar projetos</td>
       <td align="center">
         <a href="https://web.dio.me/articles/alguns-comando-basicos-do-angular-v2-para-gerenciar-projetos?back=%2Farticles&page=1&order=oldest">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-a9319b?style=for-the-badge">
         </a>
       </td>
     </tr>
@@ -85,7 +87,7 @@ Sou formado em análise de desenvolvimento de sistemas, sou dev desde 2019, trab
       <td>Bulk insert com Java - Inserção de dados em lista</td>
       <td align="center">
         <a href="https://web.dio.me/articles/bulk-insert-com-java-insercao-de-dados-em-lista?back=%2Farticles&page=1&order=oldest">
-           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-a9319b?style=for-the-badge">
         </a>
       </td>
     </tr>

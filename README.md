@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Meu nome é Karina Burin.
 
-My name is Karina Burin.
+Sou formado em análise de desenvolvimento de sistemas, sou programador desde 2019, trabalho hoje com .NET, Angular v2+, sql server, procuro novos aprendizados a cada dia.
 
-I have a degree in systems development analysis, I have been a programmer since 2019, I work today with .NET, Angular v2+, sql server, I am looking for new learning every day.
-
-I live in search of new challenges and learnings!
+Vivo em busca de novos desafios e aprendizados!
 
 #### 	"Quanto mais eu sei, mais estou perto de chegar lá! " 🌍💪🏻
 - 📍 From Americana - SP, living in Santa Barbara D' Oeste - SP.

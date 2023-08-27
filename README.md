@@ -1,8 +1,3 @@
-
-<!--
-**KarinaBurin/KarinaBurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 # Karina Burin
 Sou formado em análise de desenvolvimento de sistemas, sou dev desde 2019, trabalho atualmente com .NET, Angular v2+, sql server, procuro novos aprendizados a cada dia.
 
